@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Photo Cumulus</string>
+    <string name="error_message">You must sign into Google in order to use cloud storage.</string>
+    <string name="content_face_image">Photo image</string>
+    <string name="button_upload">Upload</string>
+    <string name="title_activity_photo_links">Photo Cumulus</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="banner_ad_unit_id">ca-app-pub-4455331716948205/4009018074</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-4455331716948205/2072409439</string>
+
+    <string name="ad_mob_app_id">ca-app-pub-4455331716948205~6217692093</string>
+    <string name="toast_not_signed_in">Must be signed into Google to upload to cloud, please sign in and try again.</string>
+    <string name="toast_no_permission_to_uri">No permission to file uri, please enable External Storage Permission.</string>
+    <string name="button_sign_in">Sign In</string>
+</resources>

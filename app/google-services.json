@@ -1,0 +1,71 @@
+{
+  "project_info": {
+    "project_number": "573007346435",
+    "firebase_url": "https://photocumulus-a85a4.firebaseio.com",
+    "project_id": "photocumulus-a85a4",
+    "storage_bucket": "photocumulus-a85a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573007346435:android:1056a0dd76c83605",
+        "android_client_info": {
+          "package_name": "com.organicsystemsllc.photo_cumulus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573007346435-n297gfe2sqrvc6pmq8b4bbg3bns8leqv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.organicsystemsllc.photo_cumulus",
+            "certificate_hash": "9ca2b0c3bd897565730177b110a57c7e82b8b2ac"
+          }
+        },
+        {
+          "client_id": "573007346435-rjgq71fqtah5m0ql8dijs5pvbml87jhk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.organicsystemsllc.photo_cumulus",
+            "certificate_hash": "607289e9a6a494388f84dd75497314899b68bbbf"
+          }
+        },
+        {
+          "client_id": "573007346435-565l1vk9l36dhtbvf1mq8a6s3daum2cb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.organicsystemsllc.photo_cumulus",
+            "certificate_hash": "e273d370042f952f36b6f6e88a130cb67edd81b5"
+          }
+        },
+        {
+          "client_id": "573007346435-4r26fr5dmnr1m09k462hfg5ta5dhvg2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVpiT4BY_gkm1wECAO6SmJaZEfpX7zCBA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573007346435-4r26fr5dmnr1m09k462hfg5ta5dhvg2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
